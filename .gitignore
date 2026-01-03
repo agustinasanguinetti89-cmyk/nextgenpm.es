@@ -1,0 +1,28 @@
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/backup/
+wp-content/plugins/backup-*
+
+# Node/Build
+node_modules/
+.next/
+dist/
+build/
+*.log
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+.vscode/settings.json
+Thumbs.db
+
+# Cache
+*.cache
+.npm/
+.pnpm-store/
